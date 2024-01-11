@@ -1,0 +1,67 @@
+Site_ID,Sampler,BeforeAfter,Date,Lat,Long,Layer_thickness,Layer_no (1 is top),Layer_top_cm,Layer_bottom_cm,Grain_01,Grain_12,Grain_24,Grain_46,Grain_6plus,Grain_type,HandHard,Manual_wet
+AMC_creek,"TG, KY",Before,2024-01-08,44.220875,-71.4122667,4,1,17,13,0,1,1,0,0,PP,F,D
+AMC_creek,"TG, KY",Before,2024-01-08,44.220875,-71.4122667,8,2,13,5,1,0,0,0,0,RG,F,D
+AMC_creek,"TG, KY",Before,2024-01-08,44.220875,-71.4122667,5,3,5,0,1,1,0,0,0,FC,F,D
+AMC_creek,"TG, KY",After,2024-01-11,44.220875,-71.4122667,8,1,26.5,18.5,0,0,0,1,0,RG,P,D
+AMC_creek,"TG, KY",After,2024-01-11,44.220875,-71.4122667,13,2,18.5,5.5,0,1,0,0,0,RG,1F,W
+AMC_creek,"TG, KY",After,2024-01-11,44.220875,-71.4122667,5.5,3,5.5,0,0,0,1,1,0,FC,4F,M
+AMC_clearing5a,Megan,Before,2024-01-08,44.21957,-71.41355,6,1,23,17,0,1,0,0,0,,F,M
+AMC_clearing5a,Megan,Before,2024-01-08,44.21957,-71.41355,11,2,17,6,0,1,0,0,0,,F,M
+AMC_clearing5a,Megan,Before,2024-01-08,44.21957,-71.41355,6,3,6,0,0,0,1,0,0,,F,D
+AMC_clearing5b,Megan,Before,2024-01-08,44.21957,-71.41355,4,1,19,15,0,1,0,0,0,,F,M
+AMC_clearing5b,Megan,Before,2024-01-08,44.21957,-71.41355,10,2,15,5,0,1,0,0,0,,4F,M
+AMC_clearing5b,Megan,Before,2024-01-08,44.21957,-71.41355,5,3,5,0,0,0,1,0,0,,F,M-
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,5,1,37,32,0,1,0,0,0,MF,P,D
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,1,2,32,31,1,1,0,0,0,MF,1F,D
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,3,3,31,28,1,0,0,0,0,RG,P,D
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,1,4,28,27,1,0,1,0,0,MF,4F,M
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,8,5,27,19,1,0,0,0,0,RG,1F,M
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,1,6,19,18,1,0,1,0,0,MF,4F,M
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,7,7,18,11,1,0,0,0,0,RG,4F,M
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,1,8,11,10,0,1,0,0,0,RG,1F,W
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,6,9,10,4,1,0,0,0,0,RG,1F,W
+AMC_clearing5,"TG, KY",After,2024-01-11,44.21957,-71.41355,4,10,4,0,0,0,1,0,0,"FC, RG, MF",F,M
+AMC_forest,Megan,Before,2024-01-08,,,4,1,23,19,0,1,0,0,0,PP,F,M
+AMC_forest,Megan,Before,2024-01-08,,,12,2,19,7,1,0,0,0,0,DF,F,M
+AMC_forest,Megan,Before,2024-01-08,,,7,3,7,0,0,1,0,0,0,FC,F,D
+AMC_forest,"TG, KY",After,2024-01-11,,,6,1,28.5,22.5,0,1,0,0,0,RG,P,D
+AMC_forest,"TG, KY",After,2024-01-11,,,2.5,2,22.5,20,0,0,0,1,0,"RG, MF",1F,W
+AMC_forest,"TG, KY",After,2024-01-11,,,5.5,3,20,14.5,0,0,1,0,0,MF,4F,W
+AMC_forest,"TG, KY",After,2024-01-11,,,10.5,4,14.5,4,1,0,0,0,0,RG,F,W
+AMC_forest,"TG, KY",After,2024-01-11,,,4,5,4,0,0,1,1,0,0,"RG, VC",F,W
+AMC_clearing1,Mariel,Before,2024-01-08,,,6,1,27,21,1,0,0,0,0,PP,F,D
+AMC_clearing1,Mariel,Before,2024-01-08,,,15,2,21,6,1,0,0,0,0,DF,4F,D
+AMC_clearing1,Mariel,Before,2024-01-08,,,6,3,6,0,0,1,0,0,0,FC,F,D
+AMC_clearing2,Mariel,Before,2024-01-08,,,10,1,27,17,1,0,0,0,0,PP,F,D
+AMC_clearing2,Mariel,Before,2024-01-08,,,11,2,17,6,1,0,0,0,0,"RG, DF",4F,D
+AMC_clearing2,Mariel,Before,2024-01-08,,,6,3,6,0,0,1,0,0,0,FC,F,D
+AMC_clearing3,Mariel,Before,2024-01-08,,,7,1,19,12,1,0,0,0,0,PP,F,D
+AMC_clearing3,Mariel,Before,2024-01-08,,,7,2,12,5,1,0,0,0,0,DF,4F,D
+AMC_clearing3,Mariel,Before,2024-01-08,,,5,3,5,0,0,0,1,0,0,FC,F,D
+AMC_clearing4,Mariel,Before,2024-01-08,,,5,1,13,8,1,0,0,0,0,PP,F,D
+AMC_clearing4,Mariel,Before,2024-01-08,,,5,2,8,3,1,0,0,0,0,DF,F,D
+AMC_clearing4,Mariel,Before,2024-01-08,,,3,3,3,0,0,0,1,0,0,FC,F,D
+AMC_clearing1,"Mariel, Megan",After,2024-01-11,,,9.4,1,35,25.6,0,0,1,0,0,FC,1F,D
+AMC_clearing1,"Mariel, Megan",After,2024-01-11,,,0.3,2,25.6,25.3,0,0,1,0,0,"MF, CR",1F,D
+AMC_clearing1,"Mariel, Megan",After,2024-01-11,,,2.2,3,23.3,21.1,0,1,0,0,0,FC,1F,D
+AMC_clearing1,"Mariel, Megan",After,2024-01-11,,,2.3,4,21.1,18.8,0,0,1,0,0,RG,1F,D
+AMC_clearing1,"Mariel, Megan",After,2024-01-11,,,12.4,5,18.8,6.4,1,0,0,0,0,FC,1F,D
+AMC_clearing1,"Mariel, Megan",After,2024-01-11,,,6.4,6,6.4,0,0,1,0,0,0,MF,1F,D
+AMC_clearing2,"Mariel, Megan",After,2024-01-11,,,4.6,1,33.7,29.1,0,0,1,0,0,MF,P,D
+AMC_clearing2,"Mariel, Megan",After,2024-01-11,,,4.1,2,29.1,25,0,1,0,0,0,FC,1F,D
+AMC_clearing2,"Mariel, Megan",After,2024-01-11,,,2.8,3,25,22.2,0,0,1,0,0,MF,P,D
+AMC_clearing2,"Mariel, Megan",After,2024-01-11,,,4.5,4,22.2,17.7,0,1,0,0,0,FC,1F,D
+AMC_clearing2,"Mariel, Megan",After,2024-01-11,,,1.9,5,17.7,15.8,0,0,1,0,0,RG,P,D
+AMC_clearing2,"Mariel, Megan",After,2024-01-11,,,10.6,6,15.8,5.2,1,0,0,0,0,FC,1F,D
+AMC_clearing2,"Mariel, Megan",After,2024-01-11,,,5.2,7,5.2,0,0,0,0,1,0,MF,F,D
+AMC_clearing3,"Mariel, Megan",After,2024-01-11,,,5.3,1,29.7,24.4,1,0,0,0,0,MF,P,D
+AMC_clearing3,"Mariel, Megan",After,2024-01-11,,,2.4,2,24.4,22,0,1,0,0,0,MF,1F,D
+AMC_clearing3,"Mariel, Megan",After,2024-01-11,,,9,3,22,13,1,0,0,0,0,RG,4F,D
+AMC_clearing3,"Mariel, Megan",After,2024-01-11,,,1.8,4,13,11.2,0,1,0,0,0,RG,4F,D
+AMC_clearing3,"Mariel, Megan",After,2024-01-11,,,6.2,5,11.2,5,0,1,0,0,0,MF,4F,D
+AMC_clearing3,"Mariel, Megan",After,2024-01-11,,,5,6,5,0,0,1,0,0,0,FC,F,D
+AMC_clearing4,"Mariel, Megan",After,2024-01-11,,,3.5,1,25.5,22,1,0,0,0,0,MF,P/K,D
+AMC_clearing4,"Mariel, Megan",After,2024-01-11,,,4,2,22,18,0,0,1,0,0,MF,4F,D
+AMC_clearing4,"Mariel, Megan",After,2024-01-11,,,5.5,3,18,12.5,0,0,1,0,0,MF,1F,D
+AMC_clearing4,"Mariel, Megan",After,2024-01-11,,,8.8,4,12.5,3.7,0,0,1,0,0,RG,K,M
+AMC_clearing4,"Mariel, Megan",After,2024-01-11,,,3.7,5,3.7,0,0,0,1,0,0,FC,F,M
